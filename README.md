@@ -21,6 +21,7 @@ npm run start
 ```
 
 cd ../client
+
 npm i
 ```
 
